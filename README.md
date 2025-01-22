@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m Charlie, thanks for stopping by.
 - 👀 I’m interested in: Swimming, biking, running (and frankly most other sports that require a certain level of suffering...weird I know!), reading, finance, economics, politics and history (big history nerd!).
 - 🤓 I'm enrolled on: I'm currently enrolled on the LSE's Career Accelerator in Data Analytics. I'm Hoping to transition to a role in data following my completion!
