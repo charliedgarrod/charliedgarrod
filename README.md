@@ -1,3 +1,16 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/charlesdgarrod/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </div>
+    </a>
+  <a href="https://komarev.com/ghpvc/?username=11382chagar">
+    <img src="https://komarev.com/ghpvc/?username=11382chagar&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
+
+
 - 👋 Hi, I’m Charlie, thanks for stopping by.
 - 👀 I’m interested in: Swimming, biking, running (and frankly most other sports that require a certain level of suffering...weird I know!), reading, finance, economics, politics and history (big history nerd!).
 - 🤓 I'm enrolled on: I'm currently enrolled on the LSE's Career Accelerator in Data Analytics. I'm Hoping to transition to a role in data following my completion!
