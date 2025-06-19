@@ -12,11 +12,23 @@
 
 
 - 👋 Hi, I’m Charlie, thanks for stopping by.
-- 👀 I’m interested in: Swimming, biking, running (and frankly most other sports that require a certain level of suffering...weird I know!), reading, finance, economics, politics and history (big history nerd!).
-- 🤓 I'm enrolled on: I'm currently enrolled on the LSE's Career Accelerator in Data Analytics. I'm Hoping to transition to a role in data following my completion!
-- 🌱 I’m currently learning: Data analytics, inference and machine learning using SQL, Python, R and Tableau. 
-- 💞️ I’m looking to collaborate on: When my contributions would be of value, I'd be interested in collaborating on financial, investment and economic models and applications.
-- 📫 How to reach me: Drop me a message on LinkedIn
+- 📈 I'm a data analyst with almost a decade of experience in the financial sector.
+- 👀 I'm interested in all things financial, political and sports analysis. I really thrive on trying to understand the why instead of just the what.
+- 🏆 I recently completed the Data Analytics Career Accelerator with the London School of Economics.
+- 📫 To find out more about me, please feel free to drop me a message on LinkedIn
+
+**Technical Skills**
+
+- Excel
+- SQL
+- Tableau
+- Python
+- R
+
+**Courses and Certifications**
+
+- LSE Data Analytics Career Accelerator
+- Level 4 Certificate in Investment Management (IMC)
 
 <!---
 11382chagar/11382chagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
