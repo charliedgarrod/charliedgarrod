@@ -10,10 +10,12 @@
   </a>
 </div>
 
+<h2>Hi there 👋 I'm Charlie</h2>
 
-- 👋 Hi, I’m Charlie, thanks for stopping by.
+**About Me**
+
 - 📈 I'm a data analyst with almost a decade of experience in the financial sector.
-- 👀 I'm interested in all things financial, political and sports analysis. I really thrive on trying to understand the why instead of just the what.
+- 👀 I love all things data with a particular interested in financial, political and sports analytics. I really thrive on trying to understand the *why* instead of just the *what*.
 - 🏆 I recently completed the Data Analytics Career Accelerator with the London School of Economics.
 - 📫 To find out more about me, please feel free to drop me a message on LinkedIn
 
