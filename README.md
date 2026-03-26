@@ -24,6 +24,7 @@
 - Excel
 - SQL
 - Tableau
+- PowerBI
 - Python
 - R
 
