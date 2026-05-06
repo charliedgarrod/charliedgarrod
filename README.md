@@ -16,7 +16,7 @@
 
 ### 👋 About Me
 
-I'm a data analyst with almost a decade worth of experience in the financial services sector, which taught me how to turn complex data into clear decisions under pressure.
+I'm a data analyst with almost a decade worth of experience in the financial services sector, which taught me how to turn complex data into clear decisions under pressure and then convey the insights to non-technical stakeholders.
 
 Now I bring that same analytical instinct to data - building projects that go beyond dashboards and actually answer real business questions.
 
