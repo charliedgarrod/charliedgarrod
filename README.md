@@ -1,39 +1,58 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/charlesdgarrod/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </div>
-    </a>
-  <a href="https://komarev.com/ghpvc/?username=11382chagar">
-    <img src="https://komarev.com/ghpvc/?username=11382chagar&style=flat-square&color=blue" alt=""/>
-  </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f62fe,100:0043ce&height=180&section=header&text=Charlie%20Garrod&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Finance%20%E2%86%92%20Analytics&descAlignY=58&descColor=a6c8ff" width="100%"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlesdgarrod/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f62fe?style=for-the-badge&logo=github&logoColor=white)](https://charliedgarrod.github.io)
+[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@charlied.garrod)
+
+<br/>
+
 </div>
 
-<h2>Hi there 👋 I'm Charlie</h2>
+---
 
-**About Me**
+### 👋 About Me
 
-- 📈 I'm a data analyst with almost a decade of experience in the financial sector.
-- 👀 I love all things data with a particular interested in financial, political and sports analytics. I really thrive on trying to understand the *why* instead of just the *what*.
-- 🏆 I recently completed the Data Analytics Career Accelerator with the London School of Economics.
-- 📫 To find out more about me, please feel free to drop me a message on LinkedIn
+I'm a data analyst with almost a decade worth of experience in the financial services sector, which taught me how to turn complex data into clear decisions under pressure.
 
-**Technical Skills**
+Now I bring that same analytical instinct to data - building projects that go beyond dashboards and actually answer real business questions.
 
-- Excel
-- SQL
-- Tableau
-- PowerBI
-- Python
-- R
+🎓 **LSE PGCert in Data Analytics**
+📍 **Based in Surrey, UK**
+🔍 **Interested in:** Fintech · E-commerce · Retail Analytics
 
-**Courses and Certifications**
+---
 
-- LSE Data Analytics Career Accelerator
-- Level 4 Certificate in Investment Management (IMC)
+### 🛠️ Tech Stack
 
-<!---
-11382chagar/11382chagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![Charlie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charliedgarrod&show_icons=true&theme=default&hide_border=true&title_color=0f62fe&icon_color=0f62fe)
+
+</div>
+
+---
+
+<div align="center">
+
+*Finance background. Analytical mindset. Always asking why.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0043ce,100:0f62fe&height=100&section=footer" width="100%"/>
+
+</div>
