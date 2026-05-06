@@ -36,22 +36,28 @@ Now I bring that same analytical instinct to data - building projects that go be
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+---
+
+### 🎓 Education & Certifications
+
+| Qualification | Institution | Grade |
+|---|---|---|
+| PGCert in Data Analytics | London School of Economics | Distinction|
+| Data Analytics Career Accelerator | London School of Economics | Distinction |
+| Certificate in Investment Management (IMC) | CFA Society UK | Passed |
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-![Charlie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charliedgarrod&show_icons=true&theme=default&hide_border=true&title_color=0f62fe&icon_color=0f62fe)
-
-</div>
+### ⚡ Beyond the Data
+- 🏃 Endurance coach - I apply the same data thinking to athletic performance
+- 📊 Obsessed with sports analytics (endurance sports mostly)
+- 🎯 Currently targeting fintech and e-commerce analyst roles
 
 ---
 
 <div align="center">
 
-*Finance background. Analytical mindset. Always asking why.*
+*Harnessing the power of data to drive strategic decision making.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0043ce,100:0f62fe&height=100&section=footer" width="100%"/>
 
